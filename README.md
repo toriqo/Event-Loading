@@ -65,7 +65,7 @@ php bin/event-loader-demo.php
 If you run from Windows with WSL:
 
 ```powershell
-wsl -d Ubuntu-24.04 sh -lc 'cd /home/flavius/sf-test && php bin/event-loader-demo.php'
+wsl -d Ubuntu-24.04 sh -lc 'cd /path/to/project && php bin/event-loader-demo.php'
 ```
 
 ## Expected Output (example)
